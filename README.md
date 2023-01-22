@@ -6,7 +6,7 @@ I am a Computer Vision and Embedded System Developer <img src="https://media.gip
 👩‍💻 About Me:
 
 - 🔭 I’m currently working on Computer Vision and Embedded Systems Software.
-- 💬 Ask me about Embedded System and Computter Vision.
+- 💬 Ask me about Computer Science, Embedded System and Computter Vision.
 - 📫 How to reach me:  https://www.linkedin.com/in/meryemkoc/ or meryemkoch571@gmail.com
 
 ---
