@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ---
-I am a Embedded System Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Computer Vision and Embedded System Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 👩‍💻 About Me:
 
-- 🔭 I’m currently working on Embedded Systems Software.
+- 🔭 I’m currently working on Computer Vision and Embedded Systems Software.
 - 💬 Ask me about Embedded System and Computter Vision.
 - 📫 How to reach me:  https://www.linkedin.com/in/meryemkoc/ or meryemkoch571@gmail.com
 
