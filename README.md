@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-I am a Computer Vision and Embedded System Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Computer Vision, Robotics and Embedded System Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 👩‍💻 About Me:
 
