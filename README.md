@@ -7,7 +7,7 @@ I am a Computer Vision, Robotics and Embedded System Developer <img src="https:/
 
 - 🔭 I’m currently working on Computer Vision and Embedded Systems Software.
 - 💬 Ask me about Computer Science, Embedded System and Computter Vision.
-- 📫 How to reach me:  https://www.linkedin.com/in/meryemkoc/ or meryemkoch571@gmail.com
+- 📫 How to reach me:  https://www.linkedin.com/in/meryemkoc/ or meryem.koc.coder@gmail.com
 
 ---
 
