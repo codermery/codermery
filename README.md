@@ -1,15 +1,54 @@
 ### Hi there 👋
+<h1 align="center">Hi, I'm Meryem Koç 👋</h1>
+
+<p align="center">
+  <b>Computer Vision • Robotics • Embedded Systems • Autonomous Systems</b>
+</p>
+
+<p align="center">
+  I build perception and robotics systems that connect AI models with real-world machines.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/meryemkoc">
+    <img src="https://img.shields.io/badge/LinkedIn-Meryem%20Koç-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:meryem.koc.coder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/codermery">
+    <img src="https://img.shields.io/badge/GitHub-codermery-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
-I am a Computer Vision, Robotics and Embedded System Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-👩‍💻 About Me:
+##👩‍💻 About Me:
 
-- 🔭 I’m currently working on Computer Vision and Embedded Systems Software.
-- 💬 Ask me about Computer Science, Embedded System and Computter Vision.
-- 📫 How to reach me:  https://www.linkedin.com/in/meryemkoc/ or meryem.koc.coder@gmail.com
+I am a robotics software engineer and researcher from Türkiye, working at the intersection of:
+
+- Autonomous driving perception
+- Multi-robot systems
+- SLAM and navigation
+- Embedded systems and real-time control
+- Computer vision for safety-critical applications
+
+My work focuses on building practical AI-powered robotic systems, from simulation and model training to embedded deployment and real-world testing.
+
+Currently, I am developing research and engineering projects around autonomous perception, multi-robot SLAM, warehouse robotics, and safety-oriented AI systems.
 
 ---
+
+## Research & Engineering Interests
+
+```txt
+Autonomous Systems        Computer Vision        Multi-Robot SLAM
+Robotics Software         Embedded AI            ROS 2
+Object Detection          Sensor Fusion          Edge Deployment
+```
+
+---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
