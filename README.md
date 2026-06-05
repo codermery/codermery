@@ -23,7 +23,7 @@
 
 ---
 
-##👩‍💻 About Me:
+## About Me:
 
 I am a robotics software engineer and researcher from Türkiye, working at the intersection of:
 
