@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/codermery.png" width="150" alt="Meryem Koç" />
-
 # Meryem Koç
 
 ### Robotics Software Engineer · Computer Vision · Autonomous Systems
